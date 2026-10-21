@@ -15,8 +15,6 @@ A Python simulation of a 2D rocket with a gimbaled motor (thrust vector control)
 | 5 | Saturation analysis: largest disturbance rejected before the gimbal saturates | Not started |
 | 6 | Final checks, plots, write-up | Not started |
 
-Update this table as each stage is finished. No result is claimed until its stage is marked done.
-
 ## Model
 
 Rigid body, 2D pitch dynamics about the center of gravity (CG):
