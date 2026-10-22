@@ -8,7 +8,7 @@ A Python simulation of a 2D rocket with a gimbaled motor (thrust vector control)
 
 | Stage | Description | Status |
 |---|---|---|
-| 1 | Equations of motion (`docs/equations.md`) | In progress |
+| 1 | Equations of motion (`docs/equations.md`) | Done |
 | 2 | Uncontrolled simulation, tested against the closed-form solution | Not started |
 | 3 | PID controller with gimbal angle limit, rate limit, anti-windup | Not started |
 | 4 | Disturbances: wind gust, thrust misalignment | Not started |
